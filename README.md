@@ -49,8 +49,8 @@ They'd like a data engineer to create an Apache Cassandra database which can cre
 
 ```
 - Project_1B_Project_Template.ipynb  # Data Modeling file 
-- README.md
 - event_data/  Music app history cvs files
+- README.md
 ```
 
 ## Run <a name="results"></a>
@@ -59,7 +59,7 @@ They'd like a data engineer to create an Apache Cassandra database which can cre
 cassandra -f
 
 ```
-If something goes wrong, please check the article
+If something goes wrong, please check the article.
 https://www.linkedin.com/pulse/%25E5%25A6%2582%25E4%25BD%2595%25E5%259C%25A8-mac-os-x-%25E4%25B8%258A%25E5%25AE%2589%25E8%25A3%2585-apache-cassandra-tom-ge/?trackingId=KuxYavn9SgKxEW2k7dqMzg%3D%3D
 
 
